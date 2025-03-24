@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -46,8 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
