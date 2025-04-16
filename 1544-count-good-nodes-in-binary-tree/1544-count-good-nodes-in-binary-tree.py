@@ -7,23 +7,22 @@
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         self.res = 0
-       
-        def solve(root, maxNode):
-            if not root:
+
+        def dfs(curr, maxNode):
+            if not curr:
                 return
             
-            if root.val >= maxNode:
+            if curr.val >= maxNode:
                 self.res += 1
-                maxNode = root.val
+                maxNode = curr.val
+            
+            dfs(curr.left, maxNode)
+            dfs(curr.right, maxNode)
 
-            solve(root.left, maxNode)
-            solve(root.right, maxNode)
-        
         if not root:
             return 0
         
-        solve(root, root.val)
+        dfs(root, root.val)
         return self.res
-
                     
         
