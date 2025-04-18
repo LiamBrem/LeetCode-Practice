@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0200-number-of-islands) |
+| [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Recursion
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
