@@ -4,6 +4,5 @@ class Solution:
             i = abs(num) - 1 
             if nums[i] < 0:
                 return abs(num)
-            else:
-                nums[i] *= -1
+            nums[i] *= -1
         return -1
