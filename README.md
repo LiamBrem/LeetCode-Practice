@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0554-brick-wall) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1138-grumpy-bookstore-owner](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1138-grumpy-bookstore-owner) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Recursion
 |  |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
