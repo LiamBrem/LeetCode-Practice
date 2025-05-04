@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0539-minimum-time-difference) |
 | [0554-brick-wall](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0554-brick-wall) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0539-minimum-time-difference) |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0539-minimum-time-difference](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0539-minimum-time-difference) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Tree
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0202-happy-number) |
+| [0539-minimum-time-difference](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0539-minimum-time-difference) |
 | [1500-count-largest-group](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1500-count-largest-group) |
 ## Bit Manipulation
 |  |
