@@ -1,27 +1,39 @@
+from collections import defaultdict
+
 class Solution:
     def subdomainVisits(self, cpdomains: List[str]) -> List[str]:
-        d = {}
-        for cpdomain in cpdomains:
-            sections = cpdomain.split()
-            count = int(sections[0])
 
-            domain = sections[1]
+        # build hash map of subdomain: count
+        hMap = defaultdict(int)
 
-            while domain:
-                if domain in d:
-                    d[domain] += count
-                else:
-                    d[domain] = count
+        # loop through cpdomains
+        for string in cpdomains:
+            # separate string into int then domain
+            [count, domain] = string.split(" ")
+            count = int(count)
+            
+            # for each domain, while string isn't empty, add totals
+            while "." in domain:
+                hMap[domain] += count
 
-                if "." in domain:
-                    pIndex = domain.index(".")
-                    domain = domain[pIndex + 1:]
-                else:
-                    domain = ""
+                # remove domain up until . 
+                dotPosition = domain.index(".")
+
+                # edge case: check if dot exists
+                domain = domain[dotPosition + 1:]
+
+            hMap[domain] += count
 
         result = []
-        for key in d:
-            result.append(str(d[key]) + " " + key)
+
+        for value in hMap:
+            result.append(f"{str(hMap[value])} {value}")
+
 
         return result
-            
+
+        
+        
+        
+        
+        
