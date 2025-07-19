@@ -7,16 +7,21 @@ class Solution:
             return hrs * 60 + mins
 
         timePoints = sorted(timePoints)
-        times = []
-        for time in timePoints:
-            times.append(convert(time))
 
         minimum = float('inf')
-        for i in range(1, len(times)):
-            minimum = min(minimum, times[i] - times[i-1])
+        timePointsInt = []
 
-        minimum = min(minimum, (24*60) + times[0] - times[-1])
-        return minimum
+        for timePoint in timePoints:
+            timePointsInt.append(convert(timePoint))
+
+        for i in range(1, len(timePointsInt)):
+            minimum = min(minimum, timePointsInt[i]-timePointsInt[i-1])
+
+        return min(minimum, (24*60) + timePointsInt[0] - timePointsInt[-1])
+            
+
+
+
 
 
 
