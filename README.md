@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -251,10 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0207-course-schedule) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0207-course-schedule) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Geometry
 |  |
 | ------- |
