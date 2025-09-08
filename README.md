@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0202-happy-number) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0200-number-of-islands) |
