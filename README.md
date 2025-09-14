@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Tree
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Binary Search Tree
 |  |
 | ------- |
