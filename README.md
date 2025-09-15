@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1138-grumpy-bookstore-owner) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
