@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
+| [0985-bag-of-tokens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0985-bag-of-tokens) |
 | [1127-last-stone-weight](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1138-grumpy-bookstore-owner) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
+| [0985-bag-of-tokens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0985-bag-of-tokens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0985-bag-of-tokens) |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Recursion
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0890-lemonade-change](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0985-bag-of-tokens) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Backtracking
 |  |
