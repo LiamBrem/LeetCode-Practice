@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0985-bag-of-tokens) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1127-last-stone-weight) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
