@@ -1,10 +1,14 @@
-import heapq
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        nums = [-num for num in nums]
-        heapq.heapify(nums)
-        num1 = heapq.heappop(nums)
-        num2 = heapq.heappop(nums)
-        print(num1, num2)
-        return ((-num1) - 1) * ((-num2) - 1)
+        m1, m2 = float('-inf'), float('-inf')
+
+        for num in nums:
+            if num >= m1:
+                m2 = m1
+                m1 = num
+            elif num <= m1 and num >= m2:
+                m2 = num
+
+        print(m1, m2)
+        return (m1 - 1) * (m2 - 1)
         
