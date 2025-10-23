@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0202-happy-number) |
+| [0319-bulb-switcher](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0319-bulb-switcher) |
 | [0539-minimum-time-difference](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0539-minimum-time-difference) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1500-count-largest-group](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1500-count-largest-group) |
@@ -338,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
