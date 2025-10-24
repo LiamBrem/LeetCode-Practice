@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0539-minimum-time-difference) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1500-count-largest-group](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1500-count-largest-group) |
+| [2812-find-the-maximum-achievable-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
 | ------- |
