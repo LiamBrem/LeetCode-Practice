@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0079-word-search) |
 ## Graph
 |  |
