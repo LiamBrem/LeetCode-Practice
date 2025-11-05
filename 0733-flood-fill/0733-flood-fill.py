@@ -1,36 +1,28 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-
-        originalColor = image[sr][sc]
-        dirs = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-
+        dirs = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+        q = deque()
+        rows, cols = len(image), len(image[0])
+        original = image[sr][sc]
+        q.append((sr, sc)) 
         seen = set()
 
-        def isValid(i, j):
-            if i >= 0 and i < len(image) and j >= 0 and j < len(image[0]):
-                return True
+        while len(q) > 0:
+            r, c = q.popleft()
+            seen.add((r, c))
+            print(r, c)
+            image[r][c] = color
 
+            for dr, dc in dirs:
+                newR, newC = r + dr, c + dc
+                if (0 <= newR < rows) and (0 <= newC < cols) and image[newR][newC] == original and (newR, newC) not in seen:
 
-        def dfs(i, j):
-            seen.add((i, j))
+                    q.append((newR, newC))
+    
 
-            if image[i][j] == originalColor:
-                image[i][j] = color
+        return image
 
-                for direction in dirs:
-                    newI = i + direction[0]
-                    newJ = j + direction[1]
-
-                    if (newI, newJ) not in seen and isValid(newI, newJ):
-                        dfs(newI, newJ)
-
-            else:
-                return  
-
-
-        dfs(sr, sc)
-        return image 
-
+            
 
         
         
