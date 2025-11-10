@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
 | [0876-hand-of-straights](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0554-brick-wall](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0554-brick-wall) |
+| [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
 | [0876-hand-of-straights](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Memoization
 |  |
