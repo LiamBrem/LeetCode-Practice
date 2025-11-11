@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0539-minimum-time-difference) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
