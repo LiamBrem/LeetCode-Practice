@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
+| [0747-min-cost-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
 | [0876-hand-of-straights](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
+| [0747-min-cost-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Memoization
 |  |
