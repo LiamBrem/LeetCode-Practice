@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0554-brick-wall](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0554-brick-wall) |
 | [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1127-last-stone-weight) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -415,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
