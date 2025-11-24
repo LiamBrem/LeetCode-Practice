@@ -1,31 +1,36 @@
 class RandomizedSet:
-
     def __init__(self):
-        self.s = set()
+        self.arr = []
+        self.positions = {}
 
     def insert(self, val: int) -> bool:
-        if val in self.s:
+        if val in self.positions:
             return False
         else:
-            self.s.add(val)
+            self.positions[val] = len(self.arr) 
+            self.arr.append(val)
             return True
 
     def remove(self, val: int) -> bool:
-        if val in self.s:
-            self.s.remove(val)
+        if val in self.positions:
+            toMoveTo = self.positions[val]
+            del self.positions[val]
+            if len(self.arr) > 1:
+                if toMoveTo != len(self.arr) -1:
+                    moveVal = self.arr.pop()
+                    self.arr[toMoveTo] = moveVal
+                    self.positions[moveVal] = toMoveTo
+                else:
+                    self.arr = self.arr[:len(self.arr) - 1]
+            else:
+                self.arr = []
             return True
+        
         else:
             return False
-        
 
     def getRandom(self) -> int:
-        j = random.randint(0, len(self.s) -1)
-        i = 0
-        for val in self.s:
-            if i == j:
-                return val
-            else:
-                i += 1
+        return self.arr[random.randint(0, len(self.arr) - 1)]
 
 
         
