@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
 | [0876-hand-of-straights](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1500-count-largest-group](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1500-count-largest-group) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 ## String
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
 ## Randomized
 |  |
 | ------- |
