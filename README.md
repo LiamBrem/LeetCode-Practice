@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0985-bag-of-tokens) |
+| [0994-rotting-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1039-find-the-town-judge](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
 ## Monotonic Stack
 |  |
