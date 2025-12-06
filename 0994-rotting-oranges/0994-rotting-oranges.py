@@ -20,43 +20,33 @@ class Solution:
         farthest = 0
         hasRot = False
         hasOrange = False
-        visited = set()
+        rows, cols = len(grid), len(grid[0])
 
-        def isIsolated(row, col):
-            if row - 1 >= 0 and grid[row - 1][col] != 0:
-                return False
-            if row + 1 < rows and grid[row + 1][col] != 0:
-                return False
-            if col - 1 >= 0 and grid[row][col - 1] != 0:
-                return False
-            if col + 1 < cols and grid[row][col + 1] != 0:
-                return False
-
-            return True
+        def isInBounds(row, col):
+            return row >= 0 and row < rows and col >= 0 and col < cols
 
         def findClosestRot(row, col, dist):
-            if row < 0 or row >= rows or col < 0 or col >= cols:
-                return float('inf')
-            if grid[row][col] == 0:
-                return float('inf')
-            if (row, col) in visited:
-                return float('inf')
-            if grid[row][col] == 2:
-                return dist 
+            q = deque()
+            visited = set()
+            q.append((row, col, 0))
 
-            dirs = [(0, 1), (0, -1), (1, 0), (-1, 0)]
-            minDist = float('inf')
+            while q:
+                row, col, dist = q.popleft()
+                if (row, col) in visited:
+                    continue 
+                visited.add((row, col))
 
-            visited.add((row, col))
+                for d in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
+                    newRow = row + d[0]
+                    newCol = col + d[1]
+                    if isInBounds(newRow, newCol) and (newRow, newCol) not in visited and grid[newRow][newCol] != 0:
+                        if grid[newRow][newCol] == 2:
+                            return 1 + dist
+                        q.append((newRow, newCol, dist + 1))
 
-            for d in dirs:
-                minDist = min(minDist, findClosestRot(row + d[0], col + d[1], dist + 1))
-
-            visited.remove((row, col))
-            return minDist
+            return float('inf')
 
 
-        rows, cols = len(grid), len(grid[0])
         for row in range(rows):
             for col in range(cols):
                 if grid[row][col] == 1:
