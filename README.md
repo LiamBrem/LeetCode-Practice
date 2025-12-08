@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1500-count-largest-group](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1500-count-largest-group) |
+| [1925-count-square-sum-triples](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1925-count-square-sum-triples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
@@ -445,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
