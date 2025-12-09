@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0985-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
+| [1020-number-of-enclaves](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1020-number-of-enclaves) |
 | [1039-find-the-town-judge](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1127-last-stone-weight) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1020-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1020-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1020-number-of-enclaves) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
 ## Monotonic Stack
 |  |
