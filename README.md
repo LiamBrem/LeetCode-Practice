@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2573-remove-nodes-from-linked-list) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
@@ -464,4 +468,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1925-count-square-sum-triples) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
