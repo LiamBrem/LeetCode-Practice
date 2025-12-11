@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3110-score-of-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3110-score-of-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## Tree
