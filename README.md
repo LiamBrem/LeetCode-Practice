@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2678-number-of-senior-citizens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2678-number-of-senior-citizens) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0985-bag-of-tokens) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Backtracking
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0935-knight-dialer](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0935-knight-dialer) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Memoization
