@@ -11,9 +11,13 @@ class Solution:
         if len(s1) + len(s2) != len(s3):
             return False
 
+        memo = {} 
 
-        @lru_cache(None)
         def dfs(i, s1i, s2i):
+            hsh = str(i) + str(s1i) + str(s2i)
+            if hsh in memo:
+                return memo[hsh]
+
             if i >= len(s3):
                 return True
 
@@ -23,6 +27,8 @@ class Solution:
                 res |= dfs(i + 1, s1i + 1, s2i)
             if s2i < len(s2) and s2[s2i] == s3[i]:
                 res |= dfs(i + 1, s1i, s2i + 1)
+            
+            memo[hsh] = res
             return res 
             
 
