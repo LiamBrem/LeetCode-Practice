@@ -14,7 +14,7 @@ class Solution:
         memo = {} 
 
         def dfs(i, s1i, s2i):
-            hsh = str(i) + str(s1i) + str(s2i)
+            hsh = (i, s1i, s2i)
             if hsh in memo:
                 return memo[hsh]
 
