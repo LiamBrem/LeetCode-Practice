@@ -16,7 +16,7 @@ class Solution:
             if len(curr) == 0:
                 dfs(1, 0, "(")
 
-            if openCount >= n:
+            elif openCount >= n:
                 dfs(openCount, completedCount + 1, curr + ")")
 
             else:
@@ -26,4 +26,4 @@ class Solution:
 
         dfs(0, 0, "")
 
-        return res[:len(res) // 2]
+        return res
