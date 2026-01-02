@@ -5,6 +5,7 @@ class Solution:
         d = defaultdict(int)
 
         for num in nums:
+            if d[num] + 1 >= n:
+                return num
+
             d[num] += 1
-            if d[num] >= n:
-                return num        
