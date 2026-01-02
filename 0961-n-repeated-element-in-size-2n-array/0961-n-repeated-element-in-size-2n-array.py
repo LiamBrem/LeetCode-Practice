@@ -1,10 +1,10 @@
+from collections import defaultdict
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
         n = len(nums) // 2
-        counter = Counter(nums)
-        for num in counter.keys():
-            if counter[num] >= n:
-                return num
+        d = defaultdict(int)
 
-        return -1
-        
+        for num in nums:
+            d[num] += 1
+            if d[num] >= n:
+                return num        
