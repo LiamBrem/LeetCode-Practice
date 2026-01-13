@@ -9,7 +9,7 @@ class Solution:
         
         target = totalArea / 2.0
         
-        for i in range(50):
+        for i in range(48):
             mid = (lo + hi) / 2.0
             curr = 0
 
