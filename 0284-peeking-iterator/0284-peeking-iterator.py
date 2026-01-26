@@ -28,34 +28,32 @@ class PeekingIterator:
         :type iterator: Iterator
         """
         self.iterator = iterator
-        
-
-        
+        self.buf = [self.iterator.next()] if self.iterator.hasNext() else []
 
     def peek(self):
         """
         Returns the next element in the iteration without advancing the iterator.
         :rtype: int
         """
-        iterCopy = copy.copy(self.iterator)
-        nextElem = self.iterator.next()
-        self.iterator = iterCopy
-
-        return nextElem
+        return self.buf[0]
         
 
     def next(self):
         """
         :rtype: int
         """
-        return self.iterator.next()
+        res = self.buf.pop(0)
+        if self.iterator.hasNext():
+            self.buf.append(self.iterator.next())
+        
+        return res
         
 
     def hasNext(self):
         """
         :rtype: bool
         """
-        return self.iterator.hasNext()
+        return len(self.buf) > 0
         
 
 # Your PeekingIterator object will be instantiated and called as such:
