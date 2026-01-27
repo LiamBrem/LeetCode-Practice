@@ -6,9 +6,6 @@ class Solution:
         for u, v, w in times:
             adj[u].append((v, w))
 
-        print(distances)
-        print(adj)
-
         q = [(0, k)]
 
         while q: # while there are still unvisited nodes
