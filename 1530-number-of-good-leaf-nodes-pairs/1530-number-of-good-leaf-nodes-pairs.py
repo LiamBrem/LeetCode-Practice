@@ -39,7 +39,6 @@ class Solution:
                 return
 
             if currDist > 0 and curr in leafNodes and curr not in path:
-                print("dist", currDist, "node", curr.val)
                 res += 1
 
             path.add(curr)
