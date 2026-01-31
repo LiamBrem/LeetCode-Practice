@@ -6,7 +6,6 @@ class Solution:
 
         while l < r:
             mid = (l + r) // 2
-            print(l, r, mid, letters[mid])
             if letters[mid] <= target:
                 l = mid + 1
             else:
