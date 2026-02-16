@@ -14,10 +14,10 @@ class Solution:
         arr = [0] * (tos[-1][2] + 1)
 
         for to in tos:
-            arr[to[2]] = -to[0]
+            arr[to[2]] += -to[0]
 
         for f in froms:
-            arr[f[1]] = f[0]
+            arr[f[1]] += f[0]
 
         currCapacity = 0
 
