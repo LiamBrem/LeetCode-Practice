@@ -7,7 +7,11 @@
 
 
 """
+Initially tried serializing like a heap
+where position of child i = i * 2 + 1 and i *2 + 2
+The issue with this is if the tree is sparse -> need a lot of memory for all the Null values
 
+Instead doing a preorder traversal
 
 
 
@@ -51,7 +55,6 @@ class Codec:
 
         self.i = 0
         root = TreeNode(arr[0])
-
 
         def dfs():
             if self.i >= len(arr) or arr[self.i] == "N":
