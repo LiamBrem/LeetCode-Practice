@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0027-remove-element) |
@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0169-majority-element) |
@@ -75,8 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0036-valid-sudoku) |
@@ -103,8 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -112,8 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0056-merge-intervals) |
@@ -134,8 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3606-coupon-code-validator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -146,26 +147,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -178,8 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0027-remove-element) |
@@ -195,15 +196,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0143-reorder-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -213,8 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0049-group-anagrams) |
@@ -237,8 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3606-coupon-code-validator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -251,12 +252,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
@@ -273,11 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
@@ -290,8 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -303,16 +306,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1138-grumpy-bookstore-owner) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0143-reorder-list) |
@@ -322,8 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -331,24 +334,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1020-number-of-enclaves) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0695-max-area-of-island) |
@@ -357,13 +361,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1020-number-of-enclaves) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0202-happy-number) |
@@ -378,26 +382,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2812-find-the-maximum-achievable-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0948-sort-an-array) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0876-hand-of-straights](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0876-hand-of-straights) |
@@ -408,41 +412,41 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0039-combination-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0079-word-search) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0097-interleaving-string) |
@@ -459,40 +463,44 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0319-bulb-switcher](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0319-bulb-switcher) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0062-unique-paths) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
 ## Randomized
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1925-count-square-sum-triples) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0130-surrounded-regions](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0130-surrounded-regions/) | Medium |
 <!---LeetCode Topics End-->
