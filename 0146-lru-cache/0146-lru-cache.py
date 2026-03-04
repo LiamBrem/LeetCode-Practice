@@ -1,66 +1,64 @@
-class Node:
-    def __init__(self, key, val):
-        self.key = key
-        self.val = val
-        self.prev = None
-        self.next = None
-    
-class DLL:
-    def __init__(self):
-        self.head = Node(-1, -1)
-        self.tail = Node(-1, -1)
-        self.head.next = self.tail
-        self.tail.prev = self.head
-    
-    def addFirst(self, node):
-        node.next = self.head.next
-        node.prev = self.head
-        self.head.next = node
-        node.next.prev = node
-    
-    def removeNode(self, node):
-        node.next.prev = node.prev
-        node.prev.next = node.next
-    
-    def removeLast(self):
-        if self.tail.prev == self.head:
-            return 
-        
-        node = self.tail.prev
-        self.removeNode(node)
-        return node
-    
-    def moveFirst(self, node):
-        self.removeNode(node)
-        self.addFirst(node)
-
 class LRUCache:
+    class Node:
+        def __init__(self, key, val):
+            self.val = val
+            self.key = key
+            self.next = None
+            self.prev = None
+
     def __init__(self, capacity: int):
         self.capacity = capacity
+        self.head = None # add
+        self.tail = None # remove
         self.m = {} # {key: node}
-        self.ll = DLL() 
 
     def get(self, key: int) -> int:
-        if key in self.m:
-            node = self.m[key]
-            self.ll.moveFirst(node)
-            return node.val
-        else:
+        if key not in self.m:
             return -1
 
-    def put(self, key: int, value: int) -> None:
-        if key in self.m:
-            self.m[key].val = value
-            self.ll.moveFirst(self.m[key])
+        node = self.m[key]
+        self.removeNode(node)
+        self.addNode(node) 
 
+        return node.val
+
+    def addNode(self, node): # adds to head
+        node.next = self.head
+        if self.head:
+            self.head.prev = node
+        if not self.tail:
+            self.tail = node
+
+        node.prev = None
+        self.head = node
+
+    def removeNode(self, node):
+        if node == self.tail:
+            self.tail = node.prev
         else:
-            self.m[key] = Node(key, value)
-            self.ll.addFirst(self.m[key])
-            if len(self.m) > self.capacity:
-                removedNode = self.ll.removeLast().key
-                del self.m[removedNode]
+            node.next.prev = node.prev
+        
+        if node == self.head:
+            self.head = node.next
+        else:
+            node.prev.next = node.next
+        
 
-       
+    def put(self, key: int, value: int) -> None:
+        if key in self.m: # remove old from list  
+            self.removeNode(self.m[key])
+            
+        self.m[key] = self.Node(key, value)
+        self.addNode(self.m[key])
+
+        if len(self.m) > self.capacity:
+            del self.m[self.tail.key]
+            self.removeNode(self.tail)
+
+            
+        
+
+        
 
 
 # Your LRUCache object will be instantiated and called as such:
