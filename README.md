@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -507,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1114-print-in-order/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
