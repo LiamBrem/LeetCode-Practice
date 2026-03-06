@@ -7,58 +7,51 @@
 [[2,1,1],
  [0,1,1],
  [1,0,1]]
-
-notes:
+ notes:
     - the orange with the furthest distance from a rotten orange will be the last to rot
     - the time it will take to rot IS the distance
     - if any orange is not adjacent to any other orange -> never rots -> return -1
 """
 
-
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        farthest = 0
-        hasRot = False
-        hasOrange = False
         rows, cols = len(grid), len(grid[0])
-
-        def isInBounds(row, col):
-            return row >= 0 and row < rows and col >= 0 and col < cols
-
-        def findClosestRot(row, col, dist):
-            q = deque()
-            visited = set()
-            q.append((row, col, 0))
-
-            while q:
-                row, col, dist = q.popleft()
-                if (row, col) in visited:
-                    continue 
-                visited.add((row, col))
-
-                for d in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
-                    newRow = row + d[0]
-                    newCol = col + d[1]
-                    if isInBounds(newRow, newCol) and (newRow, newCol) not in visited and grid[newRow][newCol] != 0:
-                        if grid[newRow][newCol] == 2:
-                            return 1 + dist
-                        q.append((newRow, newCol, dist + 1))
-
-            return float('inf')
-
-
+        dists = [[float('inf')] * cols for _ in range(rows)]
+        q = deque()
+        anyOranges = False
         for row in range(rows):
             for col in range(cols):
-                if grid[row][col] == 1:
-                    hasOrange = True
-                    farthest = max(farthest, findClosestRot(row, col, 0))
-                    if farthest == float('inf'):
-                        return -1
+                if grid[row][col] != 0:
+                    anyOranges = True
+                if grid[row][col] == 2:
+                    q.append((row, col, 0))
 
-                elif grid[row][col] == 2:
-                    hasRot = True
+        if not anyOranges:
+            return 0 
 
-        if hasOrange and not hasRot:
-            return -1
+        while q:
+            row, col, dist = q.popleft()
+            dists[row][col] = min(dists[row][col], dist)
 
-        return farthest
+            for dr, dc in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
+                newRow = row + dr
+                newCol = col + dc
+                if newRow >= 0 and newRow < rows and newCol >= 0 and newCol < cols and grid[newRow][newCol] == 1:
+                    grid[newRow][newCol] = 2
+                    q.append((newRow, newCol, dist + 1))
+
+        res = -1
+        for row in range(rows):
+            for col in range(cols):
+                if dists[row][col] != float('inf'):
+                    res = max(res, dists[row][col])
+
+                elif grid[row][col] == 1: # unrotten orange, unreached by bfs
+                    return -1
+
+
+        return res
+                    
+
+
+                                    
