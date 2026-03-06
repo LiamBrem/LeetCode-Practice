@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0079-word-search) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0079-word-search) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0097-interleaving-string) |
