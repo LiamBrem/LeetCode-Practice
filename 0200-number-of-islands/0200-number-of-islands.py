@@ -1,24 +1,34 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        numIslands = 0
-        visited = set()
+        total = 0
         rows, cols = len(grid), len(grid[0])
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        seen = set()
 
-        def dfs(r, c):
+        def dfs(i, j):
+            if (i, j) in seen:
+                return
 
-            if r >= rows or r < 0 or c >= cols or c < 0 or (r, c) in visited or grid[r][c] == "0":
+            if i < 0 or i >= rows or j < 0 or j >= cols:
                 return 
 
-            visited.add((r, c))
+            seen.add((i, j))
 
-            for dr, dc in directions:
-                dfs(r + dr, c + dc)
+            if grid[i][j] == "0":
+                return
+
+            grid[i][j] = "0"
+
+            for (dr, dc) in [(1, 0), (-1, 0), (0, -1), (0, 1)]:
+                dfs(i + dr, j + dc) 
+
 
         for row in range(rows):
             for col in range(cols):
-                if (row, col) not in visited and grid[row][col] == "1":
-                    numIslands += 1
-                    dfs(row, col)                   
-                
-        return numIslands
+                if grid[row][col] == "1":
+                    total += 1
+                    seen = set()
+                    dfs(row, col)
+
+
+        return total
+        
