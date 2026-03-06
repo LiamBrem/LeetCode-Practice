@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0200-number-of-islands/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
