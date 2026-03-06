@@ -1,29 +1,29 @@
 """
 ())(
 
+)()
 """
-
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        res = []
-        maxLen = n * 2
+        self.res = []
 
-        def dfs(openCount, completedCount, curr):
-            if len(curr) >= maxLen:
-                res.append(curr)
+        def dfs(o, c, s):
+            print(s)
+            if len(s) >= n * 2:
+                self.res.append(s)
                 return
+           
+            if len(s) == 0:
+                dfs(o + 1, c, "(") 
 
-            if len(curr) == 0:
-                dfs(1, 0, "(")
-
-            elif openCount >= n:
-                dfs(openCount, completedCount + 1, curr + ")")
+            elif o >= n:
+                dfs(o, c + 1, s + ")")
 
             else:
-                dfs(openCount + 1, completedCount, curr + "(")
-                if openCount > completedCount:
-                    dfs(openCount, completedCount + 1, curr + ")")
+                dfs(o + 1, c, s + "(")
+                if o > 0 and c < o:
+                    dfs(o, c + 1, s + ")")
 
+            
         dfs(0, 0, "")
-
-        return res
+        return self.res
