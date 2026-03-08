@@ -520,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
