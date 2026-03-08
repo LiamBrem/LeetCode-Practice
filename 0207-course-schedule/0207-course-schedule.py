@@ -1,25 +1,38 @@
+"""
+0: 1, 2, 4
+1: 2, 4
+2: 3
+3: 4
+
+0: 
+1: 0
+2: 0, 1
+3: 2
+4: 0, 1, 3
+
+"""
+
 from collections import defaultdict
 
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        courseMap = defaultdict(list)
+        courseMap = defaultdict(list) # {course -> prereq}
+        for course, prereq in prerequisites:
+            courseMap[course].append(prereq)
 
-        for course, p in prerequisites:
-            courseMap[course].append(p)
-
-        taken = set()
+        seen = set()
 
         def dfs(course):
             if not courseMap[course]:
                 return True
 
-            if course in taken:
+            if course in seen:
                 return False
 
-            taken.add(course)
+            seen.add(course)
 
-            for p in courseMap[course]:
-                if not dfs(p):
+            for prereq in courseMap[course]:
+                if not dfs(prereq):
                     return False
 
             courseMap[course] = []
@@ -32,3 +45,10 @@ class Solution:
                 return False
 
         return True
+
+
+        
+        
+
+        
+        
