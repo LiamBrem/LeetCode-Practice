@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0130-surrounded-regions/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0169-majority-element) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0322-coin-change) |
