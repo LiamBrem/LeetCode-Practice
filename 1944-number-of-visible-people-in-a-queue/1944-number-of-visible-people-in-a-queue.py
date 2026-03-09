@@ -12,12 +12,10 @@ res = [0] * len(heights)
             if largest < height and neighborHeight > largest:
                 largest = neighborHeight
                 res[i] += 1
-
-
     return res
 
-
 Faster:
+    - stack, only in increasing order going to the right
 
 """
 class Solution:
@@ -27,8 +25,6 @@ class Solution:
 
         for i in range(len(heights) -1, -1, -1): 
             height = heights[i]
-
-
 
             while s and height > s[-1]:
                 s.pop()
