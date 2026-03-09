@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0539-minimum-time-difference) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0097-interleaving-string) |
+| [0242-valid-anagram](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0539-minimum-time-difference](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0539-minimum-time-difference) |
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
