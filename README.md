@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1929-concatenation-of-array](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Trie
