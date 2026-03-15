@@ -544,4 +544,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0207-course-schedule/) | Medium |
+| [2924-find-champion-ii](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2924-find-champion-ii/) | Medium |
 <!---LeetCode Topics End-->
