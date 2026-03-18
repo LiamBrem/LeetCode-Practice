@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1845-seat-reservation-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1845-seat-reservation-manager/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0911-online-election](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0911-online-election/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
+| [1845-seat-reservation-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1845-seat-reservation-manager/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
