@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
+| [3643-flip-square-submatrix-vertically](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3643-flip-square-submatrix-vertically](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1020-number-of-enclaves) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
 | [2923-find-champion-i](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2923-find-champion-i/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
