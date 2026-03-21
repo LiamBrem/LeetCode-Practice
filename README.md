@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0641-design-circular-deque](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0641-design-circular-deque/) | Medium |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 | [2573-remove-nodes-from-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
+| [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2576-minimum-penalty-for-a-shop](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2678-number-of-senior-citizens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2678-number-of-senior-citizens) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 | [2573-remove-nodes-from-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
+| [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Trie
 | Problem Name | Difficulty |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
 | [1845-seat-reservation-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1845-seat-reservation-manager/) | Medium |
 | [1993-operations-on-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1993-operations-on-tree/) | Medium |
+| [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
@@ -561,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
+| [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
