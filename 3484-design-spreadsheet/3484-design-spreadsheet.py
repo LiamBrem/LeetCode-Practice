@@ -8,7 +8,6 @@ class Spreadsheet:
 
 
     def setCell(self, cell: str, value: int) -> None:
-        print(cell, value)
         col = cell[0]
         row = int(cell[1:]) - 1
 
