@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1020-number-of-enclaves) |
 | [1039-find-the-town-judge](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1105-filling-bookcase-shelves](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1127-last-stone-weight](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1138-grumpy-bookstore-owner) |
 | [1284-four-divisors](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1284-four-divisors) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0935-knight-dialer](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0935-knight-dialer) |
+| [1105-filling-bookcase-shelves](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
