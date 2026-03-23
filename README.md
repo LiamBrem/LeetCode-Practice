@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3484-design-spreadsheet](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3484-design-spreadsheet/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 | [3643-flip-square-submatrix-vertically](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3484-design-spreadsheet](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3484-design-spreadsheet/) | Medium |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3606-coupon-code-validator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3110-score-of-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3484-design-spreadsheet](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3484-design-spreadsheet/) | Medium |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3606-coupon-code-validator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 ## Tree
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1020-number-of-enclaves) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
 | [2923-find-champion-i](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2923-find-champion-i/) | Easy |
+| [3484-design-spreadsheet](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3484-design-spreadsheet/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-operations-on-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1993-operations-on-tree/) | Medium |
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
+| [3484-design-spreadsheet](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3484-design-spreadsheet/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
