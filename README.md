@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1386-cinema-seat-allocation](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1470-shuffle-the-array](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
