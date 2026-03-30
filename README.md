@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2671-frequency-tracker](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2671-frequency-tracker/) | Medium |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3408-design-task-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3408-design-task-manager/) | Medium |
 | [3484-design-spreadsheet](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3484-design-spreadsheet/) | Medium |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3606-coupon-code-validator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1845-seat-reservation-manager/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3408-design-task-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3408-design-task-manager/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2671-frequency-tracker](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2671-frequency-tracker/) | Medium |
+| [3408-design-task-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3408-design-task-manager/) | Medium |
 | [3484-design-spreadsheet](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3484-design-spreadsheet/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0729-my-calendar-i/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
+| [3408-design-task-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3408-design-task-manager/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
