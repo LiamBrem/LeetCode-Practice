@@ -6,6 +6,9 @@ class NumberContainers:
         self.numToIdx = {} # {number: [list of indices]}
     
     def change(self, index, number):
+        if index in self.idxToNum and self.idxToNum[index] == number: 
+            return
+
         self.idxToNum[index] = number
 
         if number not in self.numToIdx or not self.numToIdx[number]:
