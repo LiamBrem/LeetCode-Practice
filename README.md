@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1500-count-largest-group) |
 | [1797-design-authentication-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1797-design-authentication-manager/) | Medium |
 | [1993-operations-on-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1993-operations-on-tree/) | Medium |
+| [2349-design-a-number-container-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2671-frequency-tracker](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2671-frequency-tracker/) | Medium |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1845-seat-reservation-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1845-seat-reservation-manager/) | Medium |
+| [2349-design-a-number-container-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3408-design-task-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3408-design-task-manager/) | Medium |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1845-seat-reservation-manager/) | Medium |
 | [1993-operations-on-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1993-operations-on-tree/) | Medium |
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
+| [2349-design-a-number-container-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2671-frequency-tracker](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2671-frequency-tracker/) | Medium |
 | [3408-design-task-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3408-design-task-manager/) | Medium |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0729-my-calendar-i/) | Medium |
+| [2349-design-a-number-container-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [3408-design-task-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3408-design-task-manager/) | Medium |
 ## Segment Tree
