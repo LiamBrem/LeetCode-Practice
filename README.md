@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3606-coupon-code-validator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3606-coupon-code-validator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3829-design-ride-sharing-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3829-design-ride-sharing-system/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2671-frequency-tracker](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2671-frequency-tracker/) | Medium |
 | [3408-design-task-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3408-design-task-manager/) | Medium |
 | [3484-design-spreadsheet](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3484-design-spreadsheet/) | Medium |
+| [3829-design-ride-sharing-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3829-design-ride-sharing-system/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0641-design-circular-deque](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0641-design-circular-deque/) | Medium |
+| [3829-design-ride-sharing-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3829-design-ride-sharing-system/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -627,4 +630,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
+| [3829-design-ride-sharing-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3829-design-ride-sharing-system/) | Medium |
 <!---LeetCode Topics End-->
