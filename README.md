@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1386-cinema-seat-allocation](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1470-shuffle-the-array/) | Easy |
+| [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0641-design-circular-deque](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0641-design-circular-deque/) | Medium |
+| [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
 | [1797-design-authentication-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1797-design-authentication-manager/) | Medium |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
+| [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0729-my-calendar-i/) | Medium |
 | [0911-online-election](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0911-online-election/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
+| [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
 | [1797-design-authentication-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1797-design-authentication-manager/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1845-seat-reservation-manager/) | Medium |
 | [1993-operations-on-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1993-operations-on-tree/) | Medium |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
+| [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
 | [1797-design-authentication-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1797-design-authentication-manager/) | Medium |
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 ## Graph Theory
@@ -618,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0729-my-calendar-i/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
