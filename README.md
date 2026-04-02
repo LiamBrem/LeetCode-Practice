@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2145-grid-game](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
+| [2241-design-an-atm-machine](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2678-number-of-senior-citizens) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [2241-design-an-atm-machine](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2241-design-an-atm-machine/) | Medium |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/LiamBrem/LeetCode-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1797-design-authentication-manager/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1845-seat-reservation-manager/) | Medium |
 | [1993-operations-on-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1993-operations-on-tree/) | Medium |
+| [2241-design-an-atm-machine](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 | [2349-design-a-number-container-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2353-design-a-food-rating-system/) | Medium |
