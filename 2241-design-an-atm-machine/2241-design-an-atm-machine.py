@@ -9,7 +9,6 @@ class ATM:
             self.quantities[i] += banknotesCount[i]
 
     def withdraw(self, amount: int) -> List[int]:
-        res = [0] * 5
         temp = self.quantities[:]
 
         for i in range(len(self.vals) -1, -1, -1):
@@ -19,7 +18,6 @@ class ATM:
                 res[i] = take
                 amount -= take * self.vals[i]
                 temp[i] -= take
-
         
             if amount == 0:
                 for i in range(5):
