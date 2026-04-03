@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
 | [0876-hand-of-straights](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0876-hand-of-straights) |
+| [0877-stone-game](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0911-online-election](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0911-online-election/) | Medium |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0319-bulb-switcher) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0539-minimum-time-difference) |
+| [0877-stone-game](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1014-k-closest-points-to-origin](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1284-four-divisors](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0494-target-sum/) | Medium |
 | [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [0935-knight-dialer](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0935-knight-dialer) |
 | [1105-filling-bookcase-shelves](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -634,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
 | [3829-design-ride-sharing-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3829-design-ride-sharing-system/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
