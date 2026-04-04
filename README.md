@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0554-brick-wall](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0554-brick-wall) |
 | [0575-distribute-candies](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0575-distribute-candies/) | Easy |
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0641-design-circular-deque](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0641-design-circular-deque/) | Medium |
 | [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
 | [1797-design-authentication-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1797-design-authentication-manager/) | Medium |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0641-design-circular-deque](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0641-design-circular-deque/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0729-my-calendar-i/) | Medium |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
 | [1797-design-authentication-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1797-design-authentication-manager/) | Medium |
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
