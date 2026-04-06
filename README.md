@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
+| [0874-walking-robot-simulation](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0876-hand-of-straights](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [0877-stone-game](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [0883-car-fleet](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0883-car-fleet) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0740-delete-and-earn](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0829-subdomain-visit-count](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0829-subdomain-visit-count) |
+| [0874-walking-robot-simulation](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0876-hand-of-straights](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [0911-online-election](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0911-online-election/) | Medium |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1929-concatenation-of-array](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
