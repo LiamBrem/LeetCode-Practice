@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1929-concatenation-of-array](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1929-concatenation-of-array/) | Easy |
+| [2069-walking-robot-simulation-ii](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2232-adding-spaces-to-a-string](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/LiamBrem/LeetCode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1797-design-authentication-manager/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1845-seat-reservation-manager/) | Medium |
 | [1993-operations-on-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1993-operations-on-tree/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2241-design-an-atm-machine](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2296-design-a-text-editor](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2296-design-a-text-editor/) | Hard |
 | [2349-design-a-number-container-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2349-design-a-number-container-system/) | Medium |
