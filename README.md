@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1656-design-an-ordered-stream](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1929-concatenation-of-array](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1500-count-largest-group](https://github.com/LiamBrem/LeetCode-Practice/tree/master/1500-count-largest-group) |
+| [1656-design-an-ordered-stream](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1797-design-authentication-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1797-design-authentication-manager/) | Medium |
 | [1993-operations-on-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1993-operations-on-tree/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/2349-design-a-number-container-system/) | Medium |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-online-election](https://github.com/LiamBrem/LeetCode-Practice/tree/main/0911-online-election/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/LiamBrem/LeetCode-Practice/tree/master/0981-time-based-key-value-store) |
 | [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
+| [1656-design-an-ordered-stream](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1797-design-authentication-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1797-design-authentication-manager/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1845-seat-reservation-manager/) | Medium |
 | [1993-operations-on-tree](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1993-operations-on-tree/) | Medium |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1472-design-browser-history/) | Medium |
+| [1656-design-an-ordered-stream](https://github.com/LiamBrem/LeetCode-Practice/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [3829-design-ride-sharing-system](https://github.com/LiamBrem/LeetCode-Practice/tree/main/3829-design-ride-sharing-system/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
