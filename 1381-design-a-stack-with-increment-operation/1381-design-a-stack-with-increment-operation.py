@@ -20,7 +20,7 @@ class CustomStack:
             if i >= len(self.arr):
                 break
 
-            self.arr[i] += + val
+            self.arr[i] += val
 
         print(self.arr)  
         
